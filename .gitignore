@@ -1,3 +1,6 @@
 .DS_Store
 *.log
 .vscode
+mydb.db
+test.db
+main
